@@ -1,4 +1,4 @@
-# Express Boilerplate!
+# Express Boilerplate for Bookmarks API!
 
 This is a boilerplate project used for starting new projects!
 
